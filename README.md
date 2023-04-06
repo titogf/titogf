@@ -9,7 +9,7 @@
 <li><b>Ongoing projects:</b></li>
   <ol><li><a href="https://github.com/titogf/Philosophers"> Philosophers</a></li></ol>
 <li><b>Projects already realised:</b></li>
-  <ol><li><a href="https://github.com/titogf/Libft"> Libft</a></li>
+    <ol><li><a href="https://github.com/titogf/Libft"> Libft</a></li>
   <li><a href="https://github.com/titogf/Born2BeRoot"> Born2BeRoot </a></li>
   <li><a href="https://github.com/titogf/Get_Next_Line"> Get Next Line</a></li>
   <li><a href="https://github.com/titogf/Ft_printf"> Printf</a></li>
