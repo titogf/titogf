@@ -8,17 +8,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titogf&layout=compact)](https://github.com/titogf?tab=repositories)
 
 
--<li><b> Ongoing projects:</b></li>
-  <ol><li><a href="https://github.com/titogf/Philosophers"> Philosophers</a></li></ol>
--<li><b> Projects already realised:</b></li>
-  <ol><li><a href="https://github.com/titogf/Libft"> Libft</a></li>
-  <li><a href="https://github.com/titogf/Born2BeRoot"> Born2BeRoot </a></li>
-  <li><a href="https://github.com/titogf/Get_Next_Line"> Get Next Line</a></li>
-  <li><a href="https://github.com/titogf/Ft_printf"> Printf</a></li>
-  <li><a href="https://github.com/titogf/Minitalk"> Minitalk</a></li>
-  <li><a href="https://github.com/titogf/push_swap"> Push_swap</a></li>
-  <li><a href="https://github.com/titogf/Fdf"> FDF</a></li></ol>
+    <li><b> Ongoing projects:</b></li>
+      <ol><li><a href="https://github.com/titogf/Philosophers"> Philosophers</a></li></ol>
+    <li><b> Projects already realised:</b></li>
+      <ol><li><a href="https://github.com/titogf/Libft"> Libft</a></li>
+      <li><a href="https://github.com/titogf/Born2BeRoot"> Born2BeRoot </a></li>
+      <li><a href="https://github.com/titogf/Get_Next_Line"> Get Next Line</a></li>
+      <li><a href="https://github.com/titogf/Ft_printf"> Printf</a></li>
+      <li><a href="https://github.com/titogf/Minitalk"> Minitalk</a></li>
+      <li><a href="https://github.com/titogf/push_swap"> Push_swap</a></li>
+      <li><a href="https://github.com/titogf/Fdf"> FDF</a></li></ol>
 
-- My projects use these languages:<br><br>
+- My projects use these languages:<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titogf&layout=compact)](https://github.com/titogf?tab=repositories)
