@@ -1,4 +1,5 @@
-- 🫡 Hi I'm <a href="https://www.linkedin.com/in/gonzalo-fern%C3%A1ndez-alonso-b06690230/">titogf</a>, a code student, here you will find my projects already finished or under construction. Here are my accounts: <br>
+- 🫡 Hi I'm titogf, a code student, here you will find my projects already finished or under construction. Here are my accounts: <br>
+
 <b>Profile<a href="https://www.linkedin.com/in/gonzalo-fern%C3%A1ndez-alonso-b06690230/"> Linkedin</a><br></b>
 <b>Profile<a href="https://profile.intra.42.fr/"> 42 Madrid</a><br></b>
 
