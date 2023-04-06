@@ -4,6 +4,7 @@
 <b>Profile<a href="https://profile.intra.42.fr/"> 42 Madrid</a><br></b>
 
 <li>👨🏽‍💻 I'm also a student from 42 Madrid and here is my profile.</li>
+
 <a href="https://profile.intra.42.fr/users/gfernand"><img src="https://badge42.vercel.app/api/v2/claflcrzb01030fl3j805opew/stats?cursusId=21&coalitionId=64" alt="gfernand's 42 stats" /></a><br>
 
 <li><b>Ongoing projects:</b></li>
