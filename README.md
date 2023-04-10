@@ -15,8 +15,8 @@
   <li><a href="https://github.com/titogf/Get_Next_Line"> Get Next Line</a></li>
   <li><a href="https://github.com/titogf/Ft_printf"> Printf</a></li>
   <li><a href="https://github.com/titogf/Minitalk"> Minitalk</a></li>
-  <li><a href="https://github.com/titogf/push_swap"> Push_swap</a></li>
-  <li><a href="https://github.com/titogf/Fdf"> FDF</a></li></ol>
+  <li><a href="https://github.com/titogf/Fdf"> FDF</a></li>
+  <li><a href="https://github.com/titogf/push_swap"> Push_swap</a></li></ol>
 
 - My projects use these languages:<br>
 
