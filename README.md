@@ -2,7 +2,6 @@
 
 <b>Profile<a href="https://www.linkedin.com/in/gonzalo-fern%C3%A1ndez-alonso-b06690230/"> Linkedin</a><br></b>
 <b>Profile<a href="https://profile.intra.42.fr/"> 42 Madrid</a><br></b>
-<a style="color: red;" href="https://titogf.github.io"> Web</a>
 
 <li>👨🏽‍💻 I'm also a student from 42 Madrid and here is my profile.</li>
 
