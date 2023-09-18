@@ -1,26 +1,71 @@
-<li>🫡 Hi I'm titogf, a code student, here you will find my projects already finished or under construction. Here are my accounts:</li> <br>
+<b>🫡 Hi I'm Gonzalo, I'm studying at the universituy and a code student in 42 Madrid, here you will find my projects already finished or under construction.</b> 
+<table border="15">
+    <thead>
+        <tr>
+            <th>Project</th>
+            <th>Subject</th>
+            <th>Finished</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/titogf/Libft"> Libft</a></td>
+            <td>Dato 2</td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/titogf/Born2BeRoot"> Born2BeRoot</a></td>
+            <td>Dato 5</td>
+            <td>✅</td>
+        </tr>
+      <tr>
+            <td><a href="https://github.com/titogf/Get_Next_Line"> Get Next Line</a></td>
+            <td>Dato 5</td>
+            <td>✅</td>
+        </tr>
+      <tr>
+            <td><a href="https://github.com/titogf/Ft_printf"> Printf</a></td>
+            <td>Dato 5</td>
+            <td>✅</td>
+        </tr>
+      <tr>
+            <td><a href="https://github.com/titogf/Minitalk"> Minitalk</a></td>
+            <td>Dato 5</td>
+            <td>✅</td>
+        </tr>
+      <tr>
+            <td><a href="https://github.com/titogf/Fdf"> FDF</a></td>
+            <td>Dato 5</td>
+            <td>✅</td>
+        </tr>
+      <tr>
+            <td><a href="https://github.com/titogf/push_swap"> Push_swap</a></td>
+            <td>Dato 5</td>
+            <td>✅</td>
+        </tr>
+      <tr>
+            <td><a href="https://github.com/titogf/Philosophers"> Philosophers</a></td>
+            <td>Dato 5</td>
+            <td>✅</td>
+        </tr>
+      <tr>
+            <td><a href="https://github.com/titogf/minishell"> Minishell</a></td>
+            <td>Dato 5</td>
+            <td>❌</td>
+        </tr>
+    </tbody>
+</table>
 
-<b>Profile<a href="https://www.linkedin.com/in/gonzalo-fern%C3%A1ndez-alonso-b06690230/"> Linkedin</a><br></b>
-<b>Profile<a href="https://profile.intra.42.fr/"> 42 Madrid</a><br></b>
+  
+  <b>👨🏽‍💻 Here are my social accounts and my 42 Madrid profile:</b> <br>
 
-<li>👨🏽‍💻 I'm also a student from 42 Madrid and here is my profile.</li>
-
+<a href="https://www.linkedin.com/in/gonzalo-fern%C3%A1ndez-alonso-b06690230/"> Linkedin</a><br>
+<a href="https://profile.intra.42.fr/"> 42 Madrid</a><br>
 <a href="https://profile.intra.42.fr/users/gfernand"><img src="https://badge42.vercel.app/api/v2/claflcrzb01030fl3j805opew/stats?cursusId=21&coalitionId=64" alt="gfernand's 42 stats" /></a><br>
 
-<li><b>Ongoing projects:</b></li>
-  <ol><li><a href="https://github.com/titogf/minishell"> Minishell</a></li></ol>
-<li><b>Projects already realised:</b></li>
-  <ol>
-    <li><a href="https://github.com/titogf/Libft"> Libft</a></li>
-    <li><a href="https://github.com/titogf/Born2BeRoot"> Born2BeRoot </a></li>
-    <li><a href="https://github.com/titogf/Get_Next_Line"> Get Next Line</a></li>
-    <li><a href="https://github.com/titogf/Ft_printf"> Printf</a></li>
-    <li><a href="https://github.com/titogf/Minitalk"> Minitalk</a></li>
-    <li><a href="https://github.com/titogf/Fdf"> FDF</a></li>
-    <li><a href="https://github.com/titogf/push_swap"> Push_swap</a></li>
-    <li><a href="https://github.com/titogf/Philosophers"> Philosophers</a></li>
-  </ol>
 
-- My projects use these languages:<br>
+  
+
+- My most used lenguages are:<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titogf&layout=compact)](https://github.com/titogf?tab=repositories)
