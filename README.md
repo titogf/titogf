@@ -8,15 +8,18 @@
 <a href="https://profile.intra.42.fr/users/gfernand"><img src="https://badge42.vercel.app/api/v2/claflcrzb01030fl3j805opew/stats?cursusId=21&coalitionId=64" alt="gfernand's 42 stats" /></a><br>
 
 <li><b>Ongoing projects:</b></li>
-  <ol><li><a href="https://github.com/titogf/Philosophers"> Philosophers</a></li></ol>
+  <ol><li><a href="https://github.com/titogf/minishell"> Minishell</a></li></ol>
 <li><b>Projects already realised:</b></li>
-  <ol><li><a href="https://github.com/titogf/Libft"> Libft</a></li>
-  <li><a href="https://github.com/titogf/Born2BeRoot"> Born2BeRoot </a></li>
-  <li><a href="https://github.com/titogf/Get_Next_Line"> Get Next Line</a></li>
-  <li><a href="https://github.com/titogf/Ft_printf"> Printf</a></li>
-  <li><a href="https://github.com/titogf/Minitalk"> Minitalk</a></li>
-  <li><a href="https://github.com/titogf/Fdf"> FDF</a></li>
-  <li><a href="https://github.com/titogf/push_swap"> Push_swap</a></li></ol>
+  <ol>
+    <li><a href="https://github.com/titogf/Libft"> Libft</a></li>
+    <li><a href="https://github.com/titogf/Born2BeRoot"> Born2BeRoot </a></li>
+    <li><a href="https://github.com/titogf/Get_Next_Line"> Get Next Line</a></li>
+    <li><a href="https://github.com/titogf/Ft_printf"> Printf</a></li>
+    <li><a href="https://github.com/titogf/Minitalk"> Minitalk</a></li>
+    <li><a href="https://github.com/titogf/Fdf"> FDF</a></li>
+    <li><a href="https://github.com/titogf/push_swap"> Push_swap</a></li>
+    <li><a href="https://github.com/titogf/Philosophers"> Philosophers</a></li>
+  </ol>
 
 - My projects use these languages:<br>
 
