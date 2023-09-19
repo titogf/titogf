@@ -1,4 +1,4 @@
-<b>🫡 Hi I'm Gonzalo, I'm studying at the universituy and a code student in 42 Madrid, here you will find my projects already finished or under construction.</b> 
+<b>🫡 Hi I'm Gonzalo, I'm studying ADE at the universituy and code in 42 Madrid, here you will find my projects already finished or under construction.</b> 
 <table border="15">
     <thead>
         <tr>
