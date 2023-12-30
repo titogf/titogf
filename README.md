@@ -51,7 +51,7 @@
       <tr>
             <td><a href="https://github.com/mhernangilp/minishell"> Minishell</a></td>
             <td><a href="https://github.com/titogf/Subjects/blob/main/minishell.pdf">Minishell.pdf</td>
-            <td>❌</td>
+            <td>✅</td>
         </tr>
     </tbody>
 </table>
