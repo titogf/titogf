@@ -49,7 +49,7 @@
             <td>✅</td>
         </tr>
       <tr>
-            <td><a href="https://github.com/gfernand/minishell"> Minishell</a></td>
+            <td><a href="https://github.com/titogf/minishell"> Minishell</a></td>
             <td><a href="https://github.com/titogf/Subjects/blob/main/minishell.pdf">Minishell.pdf</td>
             <td>✅</td>
         </tr>
@@ -61,7 +61,6 @@
 
 <a href="https://www.linkedin.com/in/gonzalo-fern%C3%A1ndez-alonso-b06690230/"> Linkedin</a><br>
 <a href="https://profile.intra.42.fr/"> 42 Madrid</a><br>
-<a href="https://profile.intra.42.fr/users/gfernand"><img src="https://badge42.vercel.app/api/v2/claflcrzb01030fl3j805opew/stats?cursusId=21&coalitionId=64" alt="gfernand's 42 stats" /></a><br>
 
 
   
