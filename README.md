@@ -56,7 +56,7 @@
         <tr>
             <td><a href="https://github.com/titogf/cub3D"> cub3D</a></td>
             <td><a href="https://github.com/titogf/Subjects/blob/main/minishell.pdf">cub3D.pdf</td>
-            <td>✅</td>
+            <td>❌</td>
         </tr>
     </tbody>
 </table>
