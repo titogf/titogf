@@ -51,7 +51,7 @@
       <tr>
             <td><a href="https://github.com/titogf/minishell"> Minishell</a></td>
             <td><a href="https://github.com/titogf/Subjects/blob/main/minishell.pdf">Minishell.pdf</td>
-            <td>✅ 100</td>
+            <td>✅ 101</td>
         </tr>
         <tr>
             <td><a href="https://github.com/titogf/cub3D"> cub3D</a></td>
