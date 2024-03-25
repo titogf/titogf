@@ -46,7 +46,7 @@
       <tr>
             <td><a href="https://github.com/titogf/Philosophers"> Philosophers</a></td>
             <td><a href="https://github.com/titogf/Subjects/blob/main/philosophers.pdf">Philo.pdf</td>
-            <td>✅ Delivering...</td>
+            <td>✅ 100</td>
         </tr>
       <tr>
             <td><a href="https://github.com/titogf/minishell"> Minishell</a></td>
