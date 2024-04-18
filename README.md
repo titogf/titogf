@@ -1,5 +1,8 @@
-<b>🫡 Hi I'm Gonzalo, I'm studying ADE at the universituy and code in 42 Madrid, here you will find my projects already finished or under construction.</b> 
-<table border="15">
+<div align="center">
+  <h1>📚 Hi, I'm Gonzalo</h1>
+    <h4>Currently studying Business Management and coding at 42 Madrid. Here you'll find my completed and ongoing projects:</h4>
+  <hr>
+  <table border="15">
     <thead>
         <tr>
             <th>Project</th>
@@ -60,16 +63,16 @@
         </tr>
     </tbody>
 </table>
-
   
-  <b>👨🏽‍💻 Here are my social accounts and my 42 Madrid profile:</b> <br>
-
-<a href="https://www.linkedin.com/in/gonzalo-fern%C3%A1ndez-alonso-b06690230/"> Linkedin</a><br>
-<a href="https://profile.intra.42.fr/"> 42 Madrid</a><br>
-
-
+  <hr>
   
+  <b>👨🏽‍💻 Connect with me:</b> <br>
+  <a href="https://www.linkedin.com/in/gonzalo-fern%C3%A1ndez-alonso-b06690230/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://profile.intra.42.fr/"><img src="https://img.icons8.com/color/48/000000/42.png"/></a><br>
+  
+  <hr>
+  
+  <p>My most used languages are:</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titogf&layout=compact" alt="Top Languages">
+</div>
 
-- My most used lenguages are:<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titogf&layout=compact)](https://github.com/titogf?tab=repositories)
