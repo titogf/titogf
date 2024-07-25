@@ -62,7 +62,7 @@
             <td>✅ 115</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/titogf/cpp"> CPP</a></td>
+            <td><a href="https://github.com/titogf/cpp"> cpp</a></td>
             <td><a href="https://github.com/titogf/Subjects/blob/main/cub3D.pdf">pdf(s)</td>
             <td>DELIVERING...</td>
         </tr>
