@@ -6,64 +6,64 @@
     <thead>
         <tr>
             <th>Project</th>
-            <th>Subject</th>
+            <th>XP</th>
             <th>Finished</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://github.com/titogf/Libft"> Libft</a></td>
-            <td><a href="https://github.com/titogf/Subjects/blob/main/libft.pdf">pdf</td>
+            <td><a href="https://projects.intra.42.fr/projects/42cursus-libft">462</td>
             <td>✅ 125</td>
         </tr>
         <tr>
             <td><a href="https://github.com/titogf/Born2BeRoot"> Born2BeRoot</a></td>
-            <td><a href="https://github.com/titogf/Subjects/blob/main/B2br.pdf">pdf</td>
+            <td><a href="https://projects.intra.42.fr/projects/born2beroot">577</td>
             <td>✅ 100</td>
         </tr>
       <tr>
             <td><a href="https://github.com/titogf/Get_Next_Line"> Get Next Line</a></td>
-            <td><a href="https://github.com/titogf/Subjects/blob/main/Get_Next_line.pdf">pdf</td>
+            <td><a href="https://projects.intra.42.fr/projects/42cursus-get_next_line">882</td>
             <td>✅ 125</td>
         </tr>
       <tr>
             <td><a href="https://github.com/titogf/Ft_printf"> Printf</a></td>
-            <td><a href="https://github.com/titogf/Subjects/blob/main/printf.pdf">pdf</td>
+            <td><a href="https://projects.intra.42.fr/projects/42cursus-ft_printf">882</td>
             <td>✅ 100</td>
         </tr>
       <tr>
-            <td><a href="https://github.com/titogf/Minitalk"> Minitalk</a></td>
-            <td><a href="https://github.com/titogf/Subjects/blob/main/minitalk.pdf">pdf</td>
+            <td><a href="https://github.com/titogf/Fdf"> FDF</a></td>
+            <td><a href="https://projects.intra.42.fr/projects/42cursus-fdf">1000</td>
             <td>✅ 125</td>
         </tr>
       <tr>
-            <td><a href="https://github.com/titogf/Fdf"> FDF</a></td>
-            <td><a href="https://github.com/titogf/Subjects/blob/main/fdf.pdf">pdf</td>
+            <td><a href="https://github.com/titogf/Minitalk"> Minitalk</a></td>
+            <td><a href="https://projects.intra.42.fr/projects/minitalk">1142</td>
             <td>✅ 125</td>
         </tr>
       <tr>
             <td><a href="https://github.com/titogf/push_swap"> Push_swap</a></td>
-            <td><a href="https://github.com/titogf/Subjects/blob/main/psuh_swap.pdf">pdf</td>
+            <td><a href="https://projects.intra.42.fr/projects/42cursus-push_swap">1855</td>
             <td>✅ 84</td>
         </tr>
       <tr>
-            <td><a href="https://github.com/titogf/Philosophers"> Philosophers</a></td>
-            <td><a href="https://github.com/titogf/Subjects/blob/main/philosophers.pdf">pdf</td>
-            <td>✅ 100</td>
+            <td><a href="https://github.com/titogf/minishell"> Minishell</a></td>
+            <td><a href="https://projects.intra.42.fr/projects/42cursus-minishell">2814</td>
+            <td>✅ 101</td>
         </tr>
       <tr>
-            <td><a href="https://github.com/titogf/minishell"> Minishell</a></td>
-            <td><a href="https://github.com/titogf/Subjects/blob/main/minishell.pdf">pdf</td>
-            <td>✅ 101</td>
+            <td><a href="https://github.com/titogf/Philosophers"> Philosophers</a></td>
+            <td><a href="https://projects.intra.42.fr/projects/42cursus-philosophers">3360</td>
+            <td>✅ 100</td>
         </tr>
         <tr>
             <td><a href="https://github.com/titogf/cub3D"> cub3D</a></td>
-            <td><a href="https://github.com/titogf/Subjects/blob/main/cub3D.pdf">pdf</td>
+            <td><a href="https://projects.intra.42.fr/projects/cub3d">5775</td>
             <td>✅ 115</td>
         </tr>
         <tr>
             <td><a href="https://github.com/titogf/cpp"> cpp</a></td>
-            <td><a href="https://github.com/titogf/Subjects/blob/main/cub3D.pdf">pdf(s)</td>
+            <td><a href="https://projects.intra.42.fr/projects/cpp-module-04">9660</td>
             <td>DELIVERING...</td>
         </tr>
     </tbody>
