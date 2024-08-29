@@ -64,7 +64,7 @@
         <tr>
             <td><a href="https://github.com/titogf/netpractice"> netpractice</a></td>
             <td><a href="https://projects.intra.42.fr/netpractice/gfernand">3160</td>
-            <td>DELIVERING...</td>
+            <td>✅ 100</td>
         </tr>
         <tr>
             <td><a href="https://github.com/titogf/cpp"> cpp</a></td>
