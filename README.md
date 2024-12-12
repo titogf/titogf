@@ -69,7 +69,7 @@
         <td>✅ Completed 100</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/titogf/cpp">CPP Modules</a></td>
+        <td><a href="https://github.com/titogf/cpp">CPP</a></td>
         <td><a href="https://projects.intra.42.fr/projects/cpp-module-04">9660</a></td>
         <td>✅ Completed 100</td>
       </tr>
