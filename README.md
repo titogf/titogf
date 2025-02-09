@@ -4,100 +4,45 @@
   <hr>
 
   <h2>🛠️ Projects Overview</h2>
-  
-  <!-- Tabla para organizar los proyectos en filas y columnas -->
-  <table align="center">
-    <tr>
-      <!-- Fila 1 -->
-      <td align="center">
         <a href="https://github.com/titogf/Libft">
-          <img src="img42/libft.png" alt="LIBFT" width="80">
+          <img src="img42/libft.png" alt="LIBFT" width="120">
         </a>
-        <p>LIBFT</p>
-      </td>
-      <td align="center">
         <a href="https://github.com/titogf/Born2BeRoot">
-          <img src="img42/b2br.png" alt="BORN 2 BE ROOT" width="80">
+          <img src="img42/b2br.png" alt="BORN 2 BE ROOT" width="120">
         </a>
-        <p>BORN 2 BE ROOT</p>
-      </td>
-      <td align="center">
         <a href="https://github.com/titogf/Get_Next_Line">
-          <img src="img42/gnl.png" alt="GET NEXT LINE" width="80">
+          <img src="img42/gnl.png" alt="GET NEXT LINE" width="120">
         </a>
-        <p>GET NEXT LINE</p>
-      </td>
-      <td align="center">
         <a href="https://github.com/titogf/Ft_printf">
-          <img src="img42/printf.png" alt="PRINTF" width="80">
+          <img src="img42/printf.png" alt="PRINTF" width="120">
         </a>
-        <p>PRINTF</p>
-      </td>
-    </tr>
-    <tr>
-      <!-- Fila 2 -->
-      <td align="center">
         <a href="https://github.com/titogf/Fdf">
-          <img src="img42/fdf.png" alt="FDF" width="80">
+          <img src="img42/fdf.png" alt="FDF" width="120">
         </a>
-        <p>FDF</p>
-      </td>
-      <td align="center">
         <a href="https://github.com/titogf/Minitalk">
-          <img src="img42/minitalk.png" alt="MINITALK" width="80">
+          <img src="img42/minitalk.png" alt="MINITALK" width="120">
         </a>
-        <p>MINITALK</p>
-      </td>
-      <td align="center">
         <a href="https://github.com/titogf/push_swap">
-          <img src="img42/pushswap.png" alt="PUSH SWAP" width="80">
+          <img src="img42/pushswap.png" alt="PUSH SWAP" width="120">
         </a>
-        <p>PUSH SWAP</p>
-      </td>
-      <td align="center">
         <a href="https://github.com/titogf/minishell">
-          <img src="img42/minishell.png" alt="MINISHELL" width="80">
+          <img src="img42/minishell.png" alt="MINISHELL" width="120">
         </a>
-        <p>MINISHELL</p>
-      </td>
-    </tr>
-    <tr>
-      <!-- Fila 3 -->
-      <td align="center">
         <a href="https://github.com/titogf/Philosophers">
-          <img src="img42/philo.png" alt="PHILOSOPHERS" width="80">
+          <img src="img42/philo.png" alt="PHILOSOPHERS" width="120">
         </a>
-        <p>PHILOSOPHERS</p>
-      </td>
-      <td align="center">
         <a href="https://github.com/titogf/cub3D">
-          <img src="img42/cub3d.png" alt="cub3D" width="80">
+          <img src="img42/cub3d.png" alt="cub3D" width="120">
         </a>
-        <p>CUB3D</p>
-      </td>
-      <td align="center">
         <a href="https://github.com/titogf/netpractice">
-          <img src="img42/netpractice.png" alt="NETPRACTICE" width="80">
+          <img src="img42/netpractice.png" alt="NETPRACTICE" width="120">
         </a>
-        <p>NETPRACTICE</p>
-      </td>
-      <td align="center">
         <a href="https://github.com/titogf/cpp">
-          <img src="img42/cpp.png" alt="CPP MODULES" width="80">
+          <img src="img42/cpp.png" alt="CPP MODULES" width="120">
         </a>
-        <p>CPP MODULES</p>
-      </td>
-    </tr>
-    <tr>
-      <!-- Fila 4 -->
-      <td align="center">
         <a href="https://github.com/titogf/webserv/">
-          <img src="img42/webserv.png" alt="WEBSERVER" width="80">
+          <img src="img42/webserv.png" alt="WEBSERVER" width="120">
         </a>
-        <p>WEBSERVER</p>
-      </td>
-    </tr>
-  </table>
 
   <hr>
   <h2>👨‍💻 Connect with me:</h2>
