@@ -77,13 +77,13 @@
       </td>
       <td align="center">
         <a href="https://github.com/titogf/netpractice">
-          <img src="img42/net.png" alt="NETPRACTICE" width="80">
+          <img src="img42/netpractice.png" alt="NETPRACTICE" width="80">
         </a>
         <p>NETPRACTICE</p>
       </td>
       <td align="center">
         <a href="https://github.com/titogf/cpp">
-          <img src="img42/modules.png" alt="CPP MODULES" width="80">
+          <img src="img42/cpp.png" alt="CPP MODULES" width="80">
         </a>
         <p>CPP MODULES</p>
       </td>
