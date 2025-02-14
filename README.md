@@ -1,9 +1,9 @@
 <div align="center">
   <h1>👋 Hello, I'm Gonzalo</h1>
-  <h4>📚 Currently studying Business Management and coding at 42 Madrid. Here you'll find my completed and ongoing projects:</h4>
+  <h3>📚 Business Management | 42 Madrid Student</h3>
   <hr>
 
-  <h2>🛠️ Projects Overview</h2>
+  <h2>🛠️ 42 Projects Overview</h2>
         <a href="https://github.com/titogf/Libft">
           <img src="img42/libft.png" alt="LIBFT" width="120">
         </a>
@@ -62,9 +62,19 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
+  </a> 
   
   <hr>
   <h2>📊 Top Languages:</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titogf&layout=compact" alt="Top Languages">
 </div>
+
