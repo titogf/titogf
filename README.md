@@ -54,10 +54,10 @@
   
   <hr>
   <h2>💻 My Expertise:</h2>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Language"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+  <a href="https://cplusplus.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Language"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
