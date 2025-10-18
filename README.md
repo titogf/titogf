@@ -74,7 +74,10 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
-  </a> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  </a>
   
   <hr>
   <h2>📊 Top Languages:</h2>
