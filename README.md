@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋 Hello, I'm Gonzalo</h1>
   <h3>📚 Business Management | 42 Madrid Student</h3>
+  <h3>💼 Software Developer</h3>
   <hr>
 
   <h2>🛠️ 42 Projects Overview</h2>
